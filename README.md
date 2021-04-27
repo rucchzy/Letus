@@ -11,3 +11,5 @@ The dynamic effect of the page and the switching between the pages are implement
 JavaScript is responsible for using Jquery to call back-end python functions (router) and communicate with the back-end through json data.
 
 The back-end consists of database and router functions.
+
+More details can be found in the Function demonstration.ppt
