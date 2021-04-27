@@ -16,4 +16,4 @@ The back-end consists of database and router functions.
 
 More details can be found in the Function demonstration.ppt
 
-Also, there are four short videos to show what it looks like on your phone.
+Also, tehre are four short videos (Make Appointments 1/2, Fitness Plan, Community Sharing) to show what it looks like on your phone.
