@@ -15,3 +15,5 @@ JavaScript is responsible for using Jquery to call back-end python functions (ro
 The back-end consists of database and router functions.
 
 More details can be found in the Function demonstration.ppt
+
+Also, there are four short videos to show what it looks like on your phone.
